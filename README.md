@@ -38,3 +38,48 @@ The goal of this repository is to:
 
 ## 📁 Folder Structure
 
+DSA-Solutions/
+│
+├── Arrays/
+│ ├── TwoSum.java
+│ └── ...
+│
+├── Recursion/
+│ ├── Permutations.java
+│ └── ...
+│
+├── DynamicProgramming/
+│ ├── LongestIncreasingSubsequence.java
+│ └── ...
+│
+└── README.md
+
+---
+
+## 📈 Progress Tracker
+
+| Platform     | Status        |
+|--------------|---------------|
+| LeetCode     | ✅ Ongoing     |
+| GFG          | ✅ Selective   |
+| HackerRank   | ✅ Occasionally |
+
+---
+
+## 🙌 Contributions
+
+This is a personal learning project. However, if you find a bug or have suggestions, feel free to open an issue or pull request.
+
+---
+
+## 📚 References
+
+- [NeetCode](https://neetcode.io/)
+- [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
+- [GeeksforGeeks DSA Sheet](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+
+---
+
+## 💡 License
+
+This project is licensed under the MIT License.
